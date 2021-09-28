@@ -10,5 +10,5 @@ Aman Dataset  | http://saimacs.github.io/
 AffectiveText Dataset  | http://web.eecs.umich.edu/~mihalcea/affectivetext/
 EmotionLines Dataset | http://doraemon.iis.sinica.edu.tw/emotionlines/index.html
 
-## Code Availability
-This research work is under review in Springer NCAA journal. The code files will be made publically available soon after the acceptance/publication of the paper.
+## Code Files
+The code files are currently private as the corresponding research paper in Elsevier Neural Networks Journal is under review. They will be made publically available soon after the paper is published/accepted for publication.
